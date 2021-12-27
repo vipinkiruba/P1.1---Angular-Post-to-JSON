@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "firstname": "Preethika",
+      "lastname": "Chandrasekaran",
+      "email": "preethika@gmail.com",
+      "mobile": "54765168",
+      "salary": "45,000"
+    },
+    {
+      "id": 3,
+      "firstname": "yugan",
+      "lastname": "M",
+      "email": "yugan@gmail.com",
+      "mobile": "865",
+      "salary": "43,000"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
